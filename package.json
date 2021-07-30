@@ -1,0 +1,23 @@
+{
+  "name": "0901-introducao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "init": "tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrosimonato/TypeScript.git"
+  },
+  "author": "Leandro Simonato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrosimonato/TypeScript/issues"
+  },
+  "homepage": "https://github.com/leandrosimonato/TypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
