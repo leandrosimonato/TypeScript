@@ -1,0 +1,14 @@
+{
+  "name": "9.2-tipando-variaveis",
+  "version": "1.0.0",
+  "description": "Simonato",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Leandro Simonato",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
